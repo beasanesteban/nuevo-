@@ -1,0 +1,7 @@
+lapiz
+bolilgrafo
+libreta
+libros
+goma
+grapadora
+
