@@ -4,4 +4,8 @@ libreta
 libros
 goma
 grapadora
+clips
+regla
+escuadra
+cartabon
 
